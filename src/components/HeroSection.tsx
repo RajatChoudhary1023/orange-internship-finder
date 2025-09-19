@@ -23,7 +23,7 @@ const HeroSection = () => {
               
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
                 Find Your Perfect
-                <span className="block gradient-text">
+                <span className="block gradient-text text-white">
                   PM Internship
                 </span>
               </h1>
@@ -40,7 +40,7 @@ const HeroSection = () => {
                 <div className="text-white/80">Active Users</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold">5K+</div>
+                <div className="text-3xl font-bold">100K+</div>
                 <div className="text-white/80">Internships</div>
               </div>
               <div className="text-center">
@@ -55,10 +55,6 @@ const HeroSection = () => {
                 <Smartphone className="w-5 h-5 mr-2" />
                 Download App
                 <ArrowRight className="w-5 h-5 ml-2" />
-              </Button>
-              <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10">
-                <Users className="w-5 h-5 mr-2" />
-                Join Community
               </Button>
             </div>
           </div>
