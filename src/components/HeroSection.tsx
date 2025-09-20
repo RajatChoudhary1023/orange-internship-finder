@@ -37,7 +37,7 @@ const HeroSection = () => {
             <div className="flex flex-wrap gap-8 py-6">
               <div className="text-center">
                 <div className="text-3xl font-bold">50K+</div>
-                <div className="text-white/80">Active Users</div>
+                <div className="text-white/80">Companies</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold">100K+</div>
